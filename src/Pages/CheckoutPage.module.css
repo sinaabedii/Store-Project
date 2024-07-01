@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 10px;
+  min-height: 1000px;
+}
+.products {
+  width: 100%;
+}
+.container p {
+  font-weight: 700;
+  font-size: 1.4rem;
+  width: 100%;
+  text-align: center;
+}

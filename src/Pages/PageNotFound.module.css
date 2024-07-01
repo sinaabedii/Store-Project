@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  margin: 10px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  gap: 100px;
+}
+.title {
+  display: grid;
+  text-align: center;
+}
+.title div {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.title span {
+  font-size: 1.1rem;
+  color: #fe5d42;
+  font-weight: 500;
+  background: #fbd4cd;
+  padding: 10px 20px;
+  border-radius: 16px;
+}
+.image img {
+  width: 350px;
+  height: 380px;
+}
